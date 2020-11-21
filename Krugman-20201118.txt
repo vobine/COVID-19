@@ -6,3 +6,5 @@ NYC has zip-code level data on positivity, which clearly demonstrates that polit
 https://scitools.org.uk/cartopy/docs/latest/
 
 Search, e.g., ZIP code shapefile
+https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html
+https://catalog.data.gov/dataset/zip-codes-zipcodes
